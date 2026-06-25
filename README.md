@@ -1,4 +1,4 @@
-# GlobePay 🌍💳
+# GlobePay
 
 ## Overview
 
