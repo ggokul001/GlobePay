@@ -12,4 +12,6 @@ __pycache__/
 .DS_Store
 
 # Windows
-Thumbs.db
+Thumbs.dbgit branch
+#pvt
+pvftoken.txt
