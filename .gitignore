@@ -15,3 +15,11 @@ __pycache__/
 Thumbs.dbgit branch
 #pvt
 pvftoken.txt
+
+#sample
+levels_for_faang.txt
+
+venv/
+.venv/
+__pycache__/
+*.pyc
